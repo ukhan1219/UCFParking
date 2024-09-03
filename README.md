@@ -28,4 +28,4 @@ Twilio API account and keys
 Life360 API account and keys
 Additional Python libraries: Requests, BeautifulSoup (for web scraping), etc.
 ## Contributing
-Given the evolving nature of UCF's parking situation and potential updates to their website, contributions are welcome to keep this tool effective. Feel free to open an issue or submit a pull request with improvements, bug fixes, or new features.
+Given the evolving nature of UCF's parking situation and potential updates to their website, contributions are welcome to keep this tool effective. feel free to reach out for improvements and advancements.
